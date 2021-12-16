@@ -1,0 +1,18 @@
+{
+    "accuracy": 0,
+    "agility": 3,
+    "armor": 2,
+    "closeCombat": 0,
+    "dodge": 0,
+    "height": 1,
+    "image": "iVBORw0KGgoAAAANSUhEUgAAAHQAAAAdCAYAAAB7YUi1AAAACXBIWXMAAA7EAAAOxAGVKw4bAAABbUlEQVRoge2aMU7DQBBF/wBKQ0mBBPRAi0QBN+AASY1ETcc9qImgSoNEmUNQ0FHRkwYhSjrEp2CMFimK17F3Nx7Na2bWHttfeXJkOQEcx1ldpOkBJNe1Pdc6CnZvtQ1kiDEAiMg450U3YoZIXgTL20RZrLFT4qJRQvH/LnRWmFihu5FzIwAQkYfl4jhtWSsdwOmW2Ds0GSQHwfJM60GJLAX5CPopAIjI2zInyi40EPisdT93hj5A8kvb02qbiDzVHVfiDr3SukjkTOtj4iyl2dN6Mmdf5eYm2HZUd8ISQgf1I78iRcT00zXJobbzhFbEfF5/+EORMVyoMVyoMVyoMVyoMVyoMVyoMVyoMVyoMVyoMWJf/d0F/faCuZcWWZwOiBIqItepgzjd4F+5xijxa8usfgRDACDJxFn6wGuT4RJCp1o/tW4WyNAn7psMN/5fbteQPA6Wl1oPtRbPl4n3oK8ETgBARL7zx3EcJw0/yUIzgYHskn8AAAAASUVORK5CYII=",
+    "intelligence": -100,
+    "maxHealthPoints": -10,
+    "maxManaPoints": 0,
+    "movement": 0,
+    "name": "Ботинки уебана",
+    "stamina": 0,
+    "strength": 1,
+    "type": "Ботинки",
+    "width": 4
+}

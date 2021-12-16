@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ui version="4.0">
+ <class>FormPlayer</class>
+ <widget class="QWidget" name="FormPlayer">
+  <property name="geometry">
+   <rect>
+    <x>0</x>
+    <y>0</y>
+    <width>482</width>
+    <height>344</height>
+   </rect>
+  </property>
+  <property name="windowTitle">
+   <string>Form</string>
+  </property>
+  <layout class="QHBoxLayout" name="horizontalLayout">
+   <item>
+    <widget class="FormPlayerStats" name="stats" native="true"/>
+   </item>
+   <item>
+    <widget class="FormPlayerInventory" name="inventory" native="true"/>
+   </item>
+   <item>
+    <layout class="QVBoxLayout" name="verticalLayout">
+     <item>
+      <widget class="FormInventoryBag" name="bag" native="true"/>
+     </item>
+     <item>
+      <widget class="QPushButton" name="pushButtonAddItem">
+       <property name="text">
+        <string>Добавить предмет</string>
+       </property>
+      </widget>
+     </item>
+    </layout>
+   </item>
+  </layout>
+ </widget>
+ <customwidgets>
+  <customwidget>
+   <class>FormPlayerInventory</class>
+   <extends>QWidget</extends>
+   <header>playerWidgets/formplayerinventory.h</header>
+   <container>1</container>
+  </customwidget>
+  <customwidget>
+   <class>FormPlayerStats</class>
+   <extends>QWidget</extends>
+   <header>playerWidgets/formplayerstats.h</header>
+   <container>1</container>
+  </customwidget>
+  <customwidget>
+   <class>FormInventoryBag</class>
+   <extends>QWidget</extends>
+   <header>playerWidgets/forminventorybag.h</header>
+   <container>1</container>
+  </customwidget>
+ </customwidgets>
+ <resources/>
+ <connections/>
+</ui>

@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ui version="4.0">
+ <class>FormPlayerInventory</class>
+ <widget class="QWidget" name="FormPlayerInventory">
+  <property name="geometry">
+   <rect>
+    <x>0</x>
+    <y>0</y>
+    <width>434</width>
+    <height>513</height>
+   </rect>
+  </property>
+  <property name="windowTitle">
+   <string>Form</string>
+  </property>
+  <layout class="QGridLayout" name="gridLayout">
+   <item row="3" column="1">
+    <widget class="QLabel" name="labelBelt">
+     <property name="text">
+      <string>Пояс</string>
+     </property>
+    </widget>
+   </item>
+   <item row="4" column="1">
+    <widget class="QLabel" name="labelPants">
+     <property name="text">
+      <string>Штаны</string>
+     </property>
+    </widget>
+   </item>
+   <item row="4" column="2">
+    <widget class="QLabel" name="labelAccessories3">
+     <property name="text">
+      <string>Аксессуар3</string>
+     </property>
+    </widget>
+   </item>
+   <item row="3" column="2">
+    <widget class="QLabel" name="labelHand2">
+     <property name="text">
+      <string>Рука2</string>
+     </property>
+    </widget>
+   </item>
+   <item row="5" column="1">
+    <widget class="QLabel" name="labelBoots">
+     <property name="text">
+      <string>Ботинки</string>
+     </property>
+    </widget>
+   </item>
+   <item row="4" column="0">
+    <widget class="QLabel" name="labelAccessories1">
+     <property name="text">
+      <string>Аксессуар1</string>
+     </property>
+    </widget>
+   </item>
+   <item row="5" column="0">
+    <widget class="QLabel" name="labelAccessories2">
+     <property name="text">
+      <string>Аксессуар2</string>
+     </property>
+    </widget>
+   </item>
+   <item row="2" column="1">
+    <widget class="QLabel" name="labelChest">
+     <property name="text">
+      <string>Тело</string>
+     </property>
+    </widget>
+   </item>
+   <item row="0" column="1">
+    <widget class="QLabel" name="labelHelm">
+     <property name="text">
+      <string>Голова</string>
+     </property>
+    </widget>
+   </item>
+   <item row="2" column="0">
+    <widget class="QLabel" name="labelHand1">
+     <property name="text">
+      <string>Рука1</string>
+     </property>
+    </widget>
+   </item>
+   <item row="3" column="0">
+    <widget class="QLabel" name="labelGloves">
+     <property name="text">
+      <string>Перчатки</string>
+     </property>
+    </widget>
+   </item>
+   <item row="5" column="2">
+    <widget class="QLabel" name="labelAccessories4">
+     <property name="text">
+      <string>Аксессуар4</string>
+     </property>
+    </widget>
+   </item>
+  </layout>
+ </widget>
+ <resources/>
+ <connections/>
+</ui>

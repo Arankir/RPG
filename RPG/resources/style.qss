@@ -1,0 +1,46 @@
+QProgressBar {
+    border-width: 1px;
+    border-style: solid;
+    border-color: #222222;
+    border-radius: 4px;
+    color: #334756;
+    border: 0px solid #ffffff;
+    text-align: center;
+}
+
+QToolTip{
+    background-color: #aaaaaa;
+    border: 1px solid black;
+}
+
+QListView {
+    background-color: #334756;
+}
+
+QProgressBar::chunk {
+    border-radius: 4px;
+}
+
+ProgressBarHp::chunk {
+    background-color: #ff4848;
+}
+
+ProgressBarMp::chunk {
+    background-color: #5089c6;
+}
+
+ProgressBarExp::chunk {
+    background-color: #ffd523;
+}
+
+/*
+ProgressBarHp {
+    background-color: #fff000;
+    color: #f0f0f0;
+}
+
+ProgressBarMp {
+    background-color: #000fff;
+    color #0f0f0f;
+}
+*/

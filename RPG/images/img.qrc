@@ -1,0 +1,12 @@
+<RCC>
+    <qresource prefix="/">
+        <file>gameBackground.png</file>
+        <file>playerInventoryBackground.png</file>
+        <file>font.ttf</file>
+        <file>backgrounds/game.png</file>
+        <file>backgrounds/playerInventory.png</file>
+        <file>backgrounds/playerStats.png</file>
+        <file>icons/black/copy.png</file>
+        <file>icons/white/copy.png</file>
+    </qresource>
+</RCC>
